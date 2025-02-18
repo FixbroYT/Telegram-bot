@@ -47,7 +47,7 @@ The bot uses environment variables stored in a `.env` file.
 
 Create a `.env` file in the root directory and add:  
 ```
-TOKEN=your_telegram_bot_token
+BOT_TOKEN=your_telegram_bot_token
 ```
 
 📌 **How to Get a Token?**  
