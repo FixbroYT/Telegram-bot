@@ -100,9 +100,7 @@ git pull origin main
 ---
 
 ## 📌 Contact  
-If you have any questions, feel free to reach out to **@YourContact**.  
+If you have any questions, feel free to reach out to **@Bobik6k**.  
 
 🎉 **Your bot is now ready to use!**
 ```
-
-Сохраните этот файл в корневой папке проекта как `README.md`.
