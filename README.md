@@ -1,8 +1,6 @@
 
 ---
 
-### 📌 **README**  
-```md
 # 🚀 Telegram Bot
 
 This project is a Telegram bot built using `aiogram`. The bot includes various functionalities such as an in-game shop, earning coins, a casino, and an inventory system.
