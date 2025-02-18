@@ -6,11 +6,11 @@
 
 ## 📌 1. Clone the Repository  
 
-```md
+```
 
 Clone the repository from GitHub:
 
-```bash
+```
 
 git clone https://github.com/FixbroYT/Telegram-bot.git
 ```
