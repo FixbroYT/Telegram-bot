@@ -5,10 +5,13 @@
 ---
 
 ## 📌 1. Clone the Repository  
+
 ```md
 
-Clone the repository from GitHub:  
+Clone the repository from GitHub:
+
 ```bash
+
 git clone https://github.com/FixbroYT/Telegram-bot.git
 ```
 Navigate to the project directory:  
@@ -103,4 +106,3 @@ git pull origin main
 If you have any questions, feel free to reach out to **@Bobik6k**.  
 
 🎉 **Your bot is now ready to use!**
-```
