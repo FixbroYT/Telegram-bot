@@ -15,7 +15,6 @@ Clone the repository from GitHub:
 git clone https://github.com/FixbroYT/Telegram-bot.git
 ```
 Navigate to the project directory:  
-```bash
 cd Telegram-bot
 ```
 
