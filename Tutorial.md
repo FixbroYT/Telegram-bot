@@ -10,10 +10,8 @@ Clone the repository from GitHub:
 ```
 git clone https://github.com/FixbroYT/Telegram-bot.git
 ```
-
-
-```
 Navigate to the project directory:  
+```
 cd Telegram-bot
 ```
 
