@@ -8,8 +8,6 @@
 
 Clone the repository from GitHub:
 ```
-
-
 git clone https://github.com/FixbroYT/Telegram-bot.git
 ```
 
