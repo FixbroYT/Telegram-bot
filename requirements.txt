@@ -2,5 +2,4 @@ aiogram
 SQLAlchemy
 asyncio
 aiosqlite
-os
 dotenv
