@@ -1,5 +1,0 @@
-__pycache__/
-.env
-config.py
-venv/
-database.sqlite3
