@@ -3,3 +3,4 @@ SQLAlchemy
 asyncio
 aiosqlite
 os
+dotenv
