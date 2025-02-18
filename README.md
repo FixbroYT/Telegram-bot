@@ -126,15 +126,3 @@ If you have any questions, feel free to reach out to **@Bobik6k**.
 
 🎉 **Your bot is now ready to use!**
 ```
-
----
-
-Теперь этот файл содержит **и описание, и инструкцию**, всё в одном месте.  
-Сохрани его как `README.md` и **замени** старый файл в проекте.  
-
-Затем запушь изменения в GitHub:  
-```bash
-git add README.md
-git commit -m "Updated README with full installation guide"
-git push origin main
-```
